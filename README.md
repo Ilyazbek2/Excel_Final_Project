@@ -1,6 +1,5 @@
 # Excel_Final_Project
 
-# Data Analytics — Excel
 
 ## Project Overview
 
