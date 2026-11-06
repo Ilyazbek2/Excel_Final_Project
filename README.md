@@ -1,6 +1,5 @@
 # Excel_Final_Project
 
-
 ## Project Overview
 
 This repository contains completed Excel projects from the Data Analytics course.
